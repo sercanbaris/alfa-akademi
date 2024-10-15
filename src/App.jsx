@@ -20,7 +20,6 @@ function App() {
           >
             hello world
           </a>
-
           <a
             className="App-link"
             href="https://reactjs.org"
