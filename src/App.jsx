@@ -12,6 +12,13 @@ function App() {
           Edit <code>src/App.jsx</code> and save to reload.
         </p>
         <p>
+          <a
+            className="App-link"
+            href="#" 
+            target="_blank"
+            rel="noopener noreferrer"
+          >hello world
+            </a>
         
           <a
             className="App-link"
